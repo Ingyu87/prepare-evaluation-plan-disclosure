@@ -1,0 +1,11 @@
+{
+  "name": "prepare-evaluation-plan-disclosure",
+  "description": "초등학교 교수·학습 및 평가계획을 정보공시 개정 기준에 맞게 검토하고 개정합니다.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ingyu87"
+  },
+  "homepage": "https://github.com/Ingyu87/prepare-evaluation-plan-disclosure",
+  "repository": "https://github.com/Ingyu87/prepare-evaluation-plan-disclosure",
+  "license": "MIT"
+}

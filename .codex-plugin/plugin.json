@@ -1,0 +1,21 @@
+{
+  "name": "prepare-evaluation-plan-disclosure",
+  "version": "0.1.0",
+  "description": "초등학교 교수·학습 및 평가계획을 정보공시 개정 기준에 맞게 검토하고 개정합니다.",
+  "author": {
+    "name": "Ingyu87",
+    "url": "https://github.com/Ingyu87"
+  },
+  "repository": "https://github.com/Ingyu87/prepare-evaluation-plan-disclosure",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "평가계획 정보공시",
+    "shortDescription": "초등 교수·학습 및 평가계획의 정보공시 양식을 점검하고 개정합니다.",
+    "longDescription": "HWP/HWPX 교수·학습 및 평가계획을 2026년 초등학교 정보공시 개정 기준에 맞춰 검토하고 공식 표제, 교수·학습 내용, 평가 방법 및 횟수, 성취수준을 정비합니다.",
+    "developerName": "Ingyu87",
+    "category": "Education",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": "Use $prepare-evaluation-plan-disclosure to review and revise this elementary evaluation plan for information disclosure."
+  }
+}
