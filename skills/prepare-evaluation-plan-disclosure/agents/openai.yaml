@@ -1,4 +1,4 @@
 interface:
   display_name: "평가계획 정보공시"
-  short_description: "초등 교수·학습 및 평가계획의 정보공시 양식을 점검하고 개정합니다."
-  default_prompt: "Use $prepare-evaluation-plan-disclosure to check and revise this evaluation plan for information disclosure."
+  short_description: "공식 성취수준을 적용해 초등 평가계획을 개정합니다."
+  default_prompt: "Use $prepare-evaluation-plan-disclosure to apply the official achievement levels and revise this elementary evaluation plan for information disclosure."
